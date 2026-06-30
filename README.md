@@ -1,3 +1,8 @@
-# ArcUnos V3.1 Rescue
+# ArcUnos
 
-Professional interactive rescue version. Restores login, logout, profile, settings, navigation, profile photo UI, and working module panels.
+AI Operating System web application.
+
+Cloudflare settings:
+- Build command: `bun run build`
+- Deploy command: `bunx wrangler deploy`
+- Root directory: `/`

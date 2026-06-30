@@ -1,6 +1,6 @@
 {
-  "name": "arcunos-v3-1-pro",
-  "version": "3.1.0",
+  "name": "arcunos-v3-final-restored",
+  "version": "3.0.0",
   "private": true,
   "type": "module",
   "scripts": {
@@ -11,8 +11,6 @@
   },
   "dependencies": {
     "@vitejs/plugin-react": "5.0.0",
-    "@types/react": "18.3.12",
-    "@types/react-dom": "18.3.1",
     "lucide-react": "0.453.0",
     "react": "18.3.1",
     "react-dom": "18.3.1",
@@ -20,6 +18,8 @@
     "vite": "6.3.5"
   },
   "devDependencies": {
+    "@types/react": "18.3.12",
+    "@types/react-dom": "18.3.1",
     "wrangler": "4.13.2"
   }
 }
