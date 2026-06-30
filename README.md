@@ -8,3 +8,4 @@ Cloudflare settings:
 - Root directory: `/`
 
 Do not upload `node_modules`. Do not upload the ZIP directly. Upload the extracted files and folders.
+Trigger deployment
