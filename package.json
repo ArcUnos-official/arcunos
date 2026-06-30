@@ -1,6 +1,6 @@
 {
-  "name": "arcunos-v3",
-  "version": "3.0.0",
+  "name": "arcunos-v3-1-pro",
+  "version": "3.1.0",
   "private": true,
   "type": "module",
   "scripts": {
@@ -10,7 +10,6 @@
     "deploy": "wrangler deploy"
   },
   "dependencies": {
-    "@supabase/supabase-js": "2.49.1",
     "@vitejs/plugin-react": "5.0.0",
     "@types/react": "18.3.12",
     "@types/react-dom": "18.3.1",
