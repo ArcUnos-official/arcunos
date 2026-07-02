@@ -1,0 +1,3 @@
+import type { Config } from 'tailwindcss'
+const config: Config = { content: ['./app/**/*.{js,ts,jsx,tsx,mdx}','./components/**/*.{js,ts,jsx,tsx,mdx}','./lib/**/*.{js,ts,jsx,tsx,mdx}'], theme: { extend: { colors: { bg:'var(--bg)', bg2:'var(--bg2)', panel:'var(--panel)', panel2:'var(--panel2)', card:'var(--card)', card2:'var(--card2)', text:'var(--text)', muted:'var(--muted)', line:'var(--line)', violet:'var(--violet)', violet2:'var(--violet2)', cyan:'var(--cyan)', green:'var(--green)', gold:'var(--gold)', red:'var(--red)' }, backgroundImage:{'btn-gradient':'linear-gradient(135deg,var(--violet),var(--violet2))'}, boxShadow:{glow:'0 24px 70px rgba(0,0,0,0.18)'} } }, plugins: [] }
+export default config
